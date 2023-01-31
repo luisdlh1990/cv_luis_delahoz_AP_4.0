@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+
+}
+.contenedor-h1{
+    height: 360px;
+    background-color: black;
+    text-align: center;
+    padding-top: 100px;
+}
+h1{
+    font-size: 60px;
+}
+h2, h1, h3{
+    font-family: 'Work Sans', sans-serif;
+}
+li{
+    font-family: 'Teko', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    text-transform: capitalize;
+}
+h3{
+    color: black;
+}
+.footer, a{
+    text-align: center;
+    padding: 40px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+button{
+    border-radius: 5px;
+    background-color: black;
+}
+
+img{
+    border-radius: 49%;
+}
+button{
+    width: 150px;
+}
